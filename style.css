@@ -445,6 +445,7 @@ input[type="number"] {
     background-image: url('tekken8.png');
     background-size: cover;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 .nav-item {
     /* Background color */
@@ -525,5 +526,218 @@ input[type="nav-tem"] {
     color: #007bff; /* Change to your desired hover color */
     box-shadow: 4px 4px 8px rgba(252, 251, 251, 0.5); /* Increase the box shadow on hover */
 }
+.arthur {
+    background-color: #5363f0;
+    display: flex;
+    justify-content: center;
+    background-image: url('vice2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    text-align: center;
+    color: #eaeaeb;
+    background-repeat: no-repeat;
+}
+.lalagyannn {
+    border-radius: 8px;
+    background-color: rgba(54, 16, 90, 0.5);
+    /* Violet background with transparency */
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    width: 300px;
+    margin-top: 100px;
+    justify-content: center;
+    text-align: center;
+    /* Apply the backdrop-filter for the frosted glass effect */
+    backdrop-filter: blur(10px);
+    /* Adjust the blur amount as needed */
+}
+.pindot {
+    /* Background color */
+    background-color: #353b41;
+    /* Text color */
+    color: #fff;
+    /* Padding - adjust to change the button size */
+    padding: 10px 20px;
+    /* Border radius for rounded corners */
+    border-radius: 5px;
+    /* Border style and color */
+    border: none;
+    /* Box shadow for a subtle shadow effect */
+    box-shadow: 2px 2px 4px rgba(236, 117, 247, 0.2);
+    /* Add a hover effect */
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    height: 50px;
+}
 
+/* Add a hover effect for the button */
+.pindot:hover {
+    background-color: #8ba1e8;
+    /* Scale the button slightly on hover */
+    transform: scale(1.05);
+    /* Adjust the box shadow on hover for a lift effect */
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.kiva{
+    color: #eaeaeb;
+}
+.allen {
+    background-color: #5363f0;
+    display: flex;
+    justify-content: center;
+    background-image: url('mortal.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.lalagyan {
+    border-radius: 8px;
+    background-color: rgba(121, 81, 156, 0.5);
+    /* Violet background with transparency */
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    width: 400px;
+    margin-top: 150px;
+    justify-content: center;
+    text-align: center;
+    /* Apply the backdrop-filter for the frosted glass effect */
+    backdrop-filter: blur(10px);
+    /* Adjust the blur amount as needed */
+    margin-right: 60%;
+}
 
+.pindott {
+    /* Background color */
+    background-color: #353b41;
+    /* Text color */
+    color: #fff;
+    /* Padding - adjust to change the button size */
+    padding: 10px 20px;
+    /* Border radius for rounded corners */
+    border-radius: 5px;
+    /* Border style and color */
+    border: none;
+    /* Box shadow for a subtle shadow effect */
+    box-shadow: 2px 2px 4px rgba(236, 117, 247, 0.2);
+    /* Add a hover effect */
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    height: 50px;
+}
+
+/* Add a hover effect for the button */
+.pindott:hover {
+    background-color: #f80361;
+    /* Scale the button slightly on hover */
+    transform: scale(1.05);
+    /* Adjust the box shadow on hover for a lift effect */
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.aruto {
+    background-color: #5363f0;
+    display: flex;
+    justify-content: center;
+    background-image: url('kobe.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.lalagyann {
+    border-radius: 8px;
+    background-color: rgba(121, 81, 156, 0.5);
+    /* Violet background with transparency */
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    width: 400px;
+    margin-top: 150px;
+    justify-content: center;
+    text-align: center;
+    /* Apply the backdrop-filter for the frosted glass effect */
+    backdrop-filter: blur(10px);
+    /* Adjust the blur amount as needed */
+    margin-right: 60%;
+}
+
+.pindottt {
+    /* Background color */
+    background-color: #353b41;
+    /* Text color */
+    color: #fff;
+    /* Padding - adjust to change the button size */
+    padding: 10px 20px;
+    /* Border radius for rounded corners */
+    border-radius: 5px;
+    /* Border style and color */
+    border: none;
+    /* Box shadow for a subtle shadow effect */
+    box-shadow: 2px 2px 4px rgba(236, 117, 247, 0.2);
+    /* Add a hover effect */
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    height: 50px;
+}
+
+/* Add a hover effect for the button */
+.pindottt:hover {
+    background-color: #e50ef8;
+    /* Scale the button slightly on hover */
+    transform: scale(1.05);
+    /* Adjust the box shadow on hover for a lift effect */
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.aquaman {
+    background-color: #5363f0;
+    display: flex;
+    justify-content: center;
+    background-image: url('itadori.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #eaeaeb;
+}
+
+.lalagyannnn {
+    border-radius: 8px;
+    background-color: rgba(54, 16, 90, 0.5);
+    /* Violet background with transparency */
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    width: 300px;
+    margin-top: 100px;
+    justify-content: center;
+    text-align: center;
+    /* Apply the backdrop-filter for the frosted glass effect */
+    backdrop-filter: blur(10px);
+    /* Adjust the blur amount as needed */
+}
+
+.pindotttt {
+    /* Background color */
+    background-color: #353b41;
+    /* Text color */
+    color: #fff;
+    /* Padding - adjust to change the button size */
+    padding: 10px 20px;
+    /* Border radius for rounded corners */
+    border-radius: 5px;
+    /* Border style and color */
+    border: none;
+    /* Box shadow for a subtle shadow effect */
+    box-shadow: 2px 2px 4px rgba(236, 117, 247, 0.2);
+    /* Add a hover effect */
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    height: 50px;
+}
+
+/* Add a hover effect for the button */
+.pindotttt:hover {
+    background-color: #8ba1e8;
+    /* Scale the button slightly on hover */
+    transform: scale(1.05);
+    /* Adjust the box shadow on hover for a lift effect */
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Increase the width and height of number input boxes */
+input[type="number"] {
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    border-radius: 15px;
+    /* You can also add padding and other styles if desired */
+}
